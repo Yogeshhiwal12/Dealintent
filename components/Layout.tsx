@@ -120,7 +120,7 @@ const Layout: React.FC = () => {
             right:"0px",
             top: { xs: "151px", md: "150px" },
             width: { xs: "43%", md: "43%" },
-            height: { xs: "26%", md: "30%", },
+            height: { xs: "25%", md: "30%", },
             backgroundColor: "rgba(255, 255, 255, 0.7)",
             clipPath: "polygon(30% 0%, 100% 0%, 100% 100%, 0% 100%)",
             p: 2,
