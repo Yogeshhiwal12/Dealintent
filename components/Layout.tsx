@@ -60,7 +60,7 @@ const Layout: React.FC = () => {
         <Box
           position="absolute"
           left={{ xs: "20px", md: "50px" }}
-          bottom={{ xs: "260px", md: "280px" }}
+          bottom={{ xs: "260px", md: "270px" }}
           width={{ xs: "150px", md: "200px" }}
           height={{ xs: "100px", md: "100px" }}
           bgcolor="#fff"
@@ -96,7 +96,7 @@ const Layout: React.FC = () => {
             width: "40%",
             height: "40%",
            
-            left:"80px",
+            left:"90px",
           
             zIndex: -1,
 
