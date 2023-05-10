@@ -96,7 +96,7 @@ const Layout: React.FC = () => {
             width: "40%",
             height: "40%",
            
-            left={{ xs: "80px", md: "100px" }},
+            left="95px",
           
             zIndex: -1,
 
